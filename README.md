@@ -1,5 +1,5 @@
 # Ola! Eu sou o Fabrício Paiva 🖐️ 
-## Sou de desenvolvedor Full-Stack com ênfase em Java usando o framework web Spring.
+## Sou desenvolvedor Full-Stack com ênfase em Java usando o framework web Spring.
 
 # Formação acadêmica 🤓
 
